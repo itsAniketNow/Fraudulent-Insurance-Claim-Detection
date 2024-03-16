@@ -14,6 +14,27 @@ The project commenced with data collection from multiple sources, followed by ex
 
 ![Project Architecture](https://user-images.githubusercontent.com/75041273/129022437-05b6056a-8943-47d3-a4a3-da17acfbb9e3.png)
 
+## Technology Stack:
+- Made with Python
+- Libraries/Frameworks:
+  - Numpy
+  - Pandas
+  - Scikit-learn (sklearn)
+  - Scipy
+  - Seaborn
+  - Matplotlib
+- Development Tools:
+  - PyCharm
+  - Jupyter Notebook
+  - Conda
+- Other Tools:
+  - SQLite
+  - Flask
+  - Postman
+- Additional Resources:
+  - Stack Overflow
+  - HTML
+
 ## Installation Guide:
 The project is developed using Python 3.9 or above. If you don't have Python installed, you can download it from the [official website](https://www.python.org/downloads/). For users with older Python versions, upgrading is possible using the pip package manager. To install all necessary packages and libraries, follow these steps after cloning the repository:
 
